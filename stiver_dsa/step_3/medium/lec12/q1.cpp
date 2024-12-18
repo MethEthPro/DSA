@@ -41,7 +41,12 @@ void optimal(vector<vector<int>>& matrix,int n){
 
 }
 int main(){
-     int rows = 4, cols = 4;
+
+    // ROTATE MATRIX/IMAGE 
+
+
+
+    int rows = 4, cols = 4;
 
     // Create a matrix using vector
     vector<vector<int>> matrix(rows, vector<int>(cols));
